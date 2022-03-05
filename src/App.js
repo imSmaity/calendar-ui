@@ -9,9 +9,8 @@ import Home from './pages/home/Home';
 function App() {
   return (
     <>
-      {/* <Calendar/> */}
-      
-      {/* <Calendar2/> */}
+      <Calendar/>
+      <Calendar2/>
       <Calendar3/>
     </>
   );

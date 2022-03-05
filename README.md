@@ -1,3 +1,11 @@
+# Calendar UI 
+## Screenshots
+#### Page 1
+![alt-text](https://i.ibb.co/jJJmsb0/Screenshot-508.png)
+#### Page 2
+![alt-text](https://i.ibb.co/bvy3rgk/Screenshot-509.png)
+#### Page 3
+![alt-text](https://i.ibb.co/TKMB2QS/Screenshot-510.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
