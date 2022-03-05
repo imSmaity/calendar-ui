@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../../components/header/Header'
+
 import img1 from '../../Assets/1-dot.png'
 import img2 from '../../Assets/two-lights.png'
 import img3 from '../../Assets/traffic-light.png'
@@ -7,6 +7,7 @@ import Events, { eventList1 } from './Events'
 import Dates from '../../components/Dates'
 import People from '../../components/people/People'
 import './calendar2.css'
+import Header from '../../components/head/Header'
 
 const list1=[
     {date:'28',event:false},

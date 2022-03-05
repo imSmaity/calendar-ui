@@ -1,11 +1,14 @@
 # Calendar UI 
 ## Screenshots
-#### Page 1
+
+#### Page 1 (url: http://localhost:3000/)
+![alt-text](https://i.ibb.co/KW4z4K8/Screenshot-512.png)
+#### Page 2 (url: http://localhost:3000/page1)
 ![alt-text](https://i.ibb.co/jJJmsb0/Screenshot-508.png)
-#### Page 2
+#### Page 3 (url: http://localhost:3000/page2)
 ![alt-text](https://i.ibb.co/bvy3rgk/Screenshot-509.png)
-#### Page 3
-![alt-text](https://i.ibb.co/TKMB2QS/Screenshot-510.png)
+#### Page 4 (url: http://localhost:3000/page3)
+![alt-text](https://i.ibb.co/MsLwqTq/Screenshot-511.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

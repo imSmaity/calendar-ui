@@ -1,4 +1,5 @@
 
+import { BrowserRouter, Route, Router, Routes } from 'react-router-dom';
 import './App.css';
 import Calendar from './pages/calendar/Calendar';
 import Calendar2 from './pages/calendar/Calendar2';
@@ -8,11 +9,14 @@ import Home from './pages/home/Home';
 
 function App() {
   return (
-    <>
-      <Calendar/>
-      <Calendar2/>
-      <Calendar3/>
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Home/>} />
+        <Route path='/page1' element={<Calendar/>}/>
+        <Route path='/page2' element={<Calendar2/>}/>
+        <Route path='/page3' element={<Calendar3/>}/>
+      </Routes>
+    </BrowserRouter>
   );
 }
 

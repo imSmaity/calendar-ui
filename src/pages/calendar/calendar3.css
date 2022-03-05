@@ -64,3 +64,21 @@
 .dd2{
     margin-left: 14.4rem;
 }
+#circle4{
+    height: 18px;
+    width: 18px;
+    background: #BBBBBB;
+    border-radius: 50%;
+    position: absolute;
+    top: 25.8rem;
+    left: 19rem;
+}
+#line2{
+    height: 12px;
+    width: 33px;
+    background: #e7e7e7;
+    border-radius: 2rem;
+    position: absolute;
+    top: 26rem;
+    left: 19rem;
+}

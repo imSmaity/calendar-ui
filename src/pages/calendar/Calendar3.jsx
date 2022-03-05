@@ -43,7 +43,8 @@ export default function Calendar3() {
         
         </div>
         <div id='circle3'></div>
-        
+        <div id='line2'></div>
+        <div id='circle4'></div>
     </>
   )
 }

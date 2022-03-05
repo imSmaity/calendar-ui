@@ -6,7 +6,7 @@ import img1 from '../../Assets/1-dot.png'
 import img2 from '../../Assets/two-lights.png'
 import img3 from '../../Assets/traffic-light.png'
 import Events from './Events'
-import Header from '../../components/header/Header'
+import Header from '../../components/head/Header'
 
 const list=[
     {date:18,event:false},
