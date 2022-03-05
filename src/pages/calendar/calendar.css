@@ -1,0 +1,26 @@
+.bb-1{
+    background-color: #162B32;
+    border: none;
+    margin-top: 1.6rem;
+}
+.cal-front #ycal{
+    color: white;
+    top: .8rem;
+    position: absolute;
+}
+#ycal button{
+    margin-left: .5rem;
+    color: white;
+    background: #2B4047;
+    border: none;
+    width: 7rem;
+    border-radius: 8rem;
+}
+#ycal button img{
+    margin-left: .4rem;
+}
+#user{
+    position: absolute;
+    top: 1.5rem;
+    left: 19.5rem;
+}

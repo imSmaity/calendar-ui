@@ -1,0 +1,52 @@
+.evF{
+    width: 20.5rem;
+    height: 436px;
+    background-color: white;
+    padding: 1rem;
+    position: absolute;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    top: 10rem;
+    left: -.5rem;
+}
+#line{
+    border: 2px solid #DADADA;
+    width: 35px;
+    left: 10rem;
+    right: 10rem;
+    position: absolute;
+}
+.evF #timeI9{
+    position: absolute;
+    top: 9rem;
+}
+#temp{
+    margin-left: 8.5rem;
+}
+#date22{
+    position: absolute;
+    top: 25.5rem;
+}
+#noE{
+    position: absolute;
+    top: 27rem;
+}
+#circle{
+    height: 40px;
+    width: 40px;
+    background: #FF6A3D;
+    border-radius: 50%;
+    position: absolute;
+    top: 26rem;
+    left: 18.8rem;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    
+}
+#add{
+    position: absolute;
+    top: 26.2rem;
+    font-size: 2rem;
+    left: 19.5rem;
+    font-weight: bold;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.d1-table{
+    width: 19rem;
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+}
+#date,#day{
+    font-size: 12px;
+    color: #FFFFFF;
+}

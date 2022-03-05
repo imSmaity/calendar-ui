@@ -1,0 +1,14 @@
+.card img{
+    position: absolute;
+}
+#zoom{
+    margin-top: 1.8rem;
+}
+#otext{
+    position: absolute;
+    margin-left: 3.5rem;
+    margin-top: .4rem;
+}
+#cardT{
+    position: absolute;
+}
