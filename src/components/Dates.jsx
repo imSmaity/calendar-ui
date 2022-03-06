@@ -4,11 +4,11 @@ import './dates.css'
 export default function Dates({dates}) {
   return (
     <>
-        <tr>
+        <tr className='date-line'>
       
         {
             dates.map((val)=>{
-                return <td key={val.date} id='date'>{val.date}</td>
+                return <td key={val.date} id='date' style={{color:val.color}}>{val.date}</td>
             })
         }
         </tr>

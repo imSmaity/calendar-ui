@@ -9,18 +9,23 @@ import Events from './Events'
 import Header from '../../components/head/Header'
 
 const list=[
-    {date:18,event:false},
-    {date:19,event:true,src:img1},
-    {date:20,event:false},
-    {date:21,event:true,src:img3},
-    {date:22,event:false},
-    {date:23,event:true,src:img2},
-    {date:24,event:false}
+    {date:18,event:false,color:'white'},
+    {date:19,event:true,color:'white',src:img1},
+    {date:20,event:false,color:'white'},
+    {date:21,event:true,color:'white',src:img3},
+    {date:22,event:false,color:'white'},
+    {date:23,event:true,color:'white',src:img2},
+    {date:24,event:false,color:'white'}
 ]
 
 function Calendar() {
   return (
     <div className='cal-front'>
+    <div id='markInDate'>
+      <div>Th</div>
+      <div id='dd1'>21</div>
+      <img src={img3} alt="dot" />
+    </div>
         <Header/>
         <table className='d1-table'>
             <tbody>

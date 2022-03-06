@@ -1,0 +1,17 @@
+#time_take{
+    position: absolute;
+    width: 16rem;
+    height: 1.7rem;
+    background-color: rgba(236, 235, 235, 0.507);
+    color: rgb(180, 13, 13);
+    margin-top: 12.4rem;
+    left: 5.8rem;
+    border-radius: 1.3rem;
+}
+#left_time{
+    color: red;
+    position: absolute;
+    margin-top: 13.3rem;
+    left: 17.5rem;
+    font-size: .7rem;
+}
